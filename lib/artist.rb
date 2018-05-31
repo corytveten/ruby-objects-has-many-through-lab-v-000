@@ -29,6 +29,6 @@ class Artist
       song.genre
     end
   end
-
+binding.pry
 
 end
